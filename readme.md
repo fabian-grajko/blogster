@@ -1,4 +1,4 @@
-#Blogster
+# Blogster
 
 ### Project made during the course [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
 
